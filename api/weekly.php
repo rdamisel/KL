@@ -1,4 +1,5 @@
 <?php
+require_once __DIR__ . '/shell.php';
 require_once __DIR__ . '/kl_helpers.php';
 
 // ── Token: cookie only, no visible form field ──

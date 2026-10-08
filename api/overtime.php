@@ -1,5 +1,6 @@
 <?php
 date_default_timezone_set('Asia/Manila');
+require_once __DIR__ . '/shell.php';
 require_once __DIR__ . '/kl_helpers.php';
 
 $token = '';

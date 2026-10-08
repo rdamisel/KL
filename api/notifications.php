@@ -1,4 +1,5 @@
 <?php
+require_once __DIR__ . '/shell.php';
 // ── Token: cookie or GET, same pattern as the other pages ──
 $token = '';
 if (!empty($_GET['token'])) {
